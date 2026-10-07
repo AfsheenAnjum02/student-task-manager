@@ -1,14 +1,15 @@
+
 # Student Task Management Application
 
-## Project Description
 
+## Project Description
+ 
 Student Task Manager is a simple web-based application that helps students manage their academic tasks. Users can add, view, and manage their tasks in an organized way.
 
 ## Team Members
 
 * Afsheen Anjum
-* Team Member 2
-* Team Member 3
+* Alishba Shah
 
 ## Features
 
