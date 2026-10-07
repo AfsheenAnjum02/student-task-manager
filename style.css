@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
-    background: #f4f6f8;
+    background: #84a3c2;
     min-height: 100vh;
     padding: 40px 20px;
 }
@@ -14,7 +14,7 @@ body {
 .container {
     max-width: 800px;
     margin: auto;
-    background: rgb(99, 14, 14);
+    background: rgb(134, 175, 199);
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
