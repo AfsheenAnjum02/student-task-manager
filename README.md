@@ -8,8 +8,8 @@ Student Task Manager is a simple web-based application that helps students manag
 
 ## Team Members
 
-* Afsheen Anjum
-* Alishba Shah
+* Afsheen Anjum BSDSF25M025
+* Alishba Shah  BSDSF25M061
 
 ## Features
 
@@ -26,7 +26,7 @@ Student Task Manager is a simple web-based application that helps students manag
 * CSS
 * JavaScript
 * Git
-* Gi
+* Git Hub
 
 ## Git Workflow
 
@@ -107,5 +107,4 @@ Example:
 ## Contributors
 
 * Afsheen Anjum
-* Team Member 2
-* Team Member 3
+* Alishba Shah
