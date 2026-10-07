@@ -26,13 +26,13 @@ Student Task Manager is a simple web-based application that helps students manag
 * CSS
 * JavaScript
 * Git
-* GitHub
+* Gi
 
 ## Git Workflow
 
 We used Git to manage the project and track changes.
 
-1. Created a Git repository.
+1. Cread a Git repository.
 2. Created feature  for dierent changes.
 3. Added and committed changes.
 4. Pushed branches to GitHub.
