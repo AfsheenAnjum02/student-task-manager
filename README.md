@@ -18,7 +18,7 @@ Student Task Manager is a simple web-based application that helps students manag
 * View tasks
 * Mark tasks as completed
 * Delete tasks
-* Simple and user-frindly intrface
+* Simple and user-friendly interface
 
 ## Technologies
 
@@ -87,7 +87,8 @@ Add screenshots of the project interface here.
 
 Example:
 
-![Student Task Manager](screenshots/task-manager.png)
+
+![Student Task Manager](screenshot.png)
 
 ## Version History
 
@@ -96,7 +97,7 @@ Example:
 * Created the basic Student Task Manager.
 * Added HTML structure.
 * Added CSS styling.
-* Added JavaScript functionality.
+* Added Java script functionality.
 * Added task title field.
 
 ### Version 1.1
