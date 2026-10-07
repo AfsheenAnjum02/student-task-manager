@@ -18,7 +18,7 @@ Student Task Manager is a simple web-based application that helps students manag
 * View tasks
 * Mark tasks as completed
 * Delete tasks
-* Simple and user-friendly interface
+* Simple and user-frindly intrface
 
 ## Technologies
 
@@ -33,10 +33,10 @@ Student Task Manager is a simple web-based application that helps students manag
 We used Git to manage the project and track changes.
 
 1. Created a Git repository.
-2. Created feature branches for different changes.
+2. Created feature  for dierent changes.
 3. Added and committed changes.
 4. Pushed branches to GitHub.
-5. Created Pull Requests.
+5. Created Requests.
 6. Merged completed features into the main branch.
 
 ## Branches
