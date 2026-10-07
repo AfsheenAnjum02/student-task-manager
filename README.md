@@ -88,7 +88,7 @@ Add screenshots of the project interface here.
 Example:
 
 
-![Student Task Manager](file:///C:/Users/gc/student-task-manager/student-task-manager/index.html)
+![Student Task Manager](screenshot.png)
 
 ## Version History
 
